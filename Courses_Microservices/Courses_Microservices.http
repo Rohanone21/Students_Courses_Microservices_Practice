@@ -1,0 +1,6 @@
+@Courses_Microservices_HostAddress = http://localhost:5185
+
+GET {{Courses_Microservices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
